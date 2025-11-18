@@ -1,8 +1,8 @@
-# Hi, I'm Ayush 👋  
+# Hi, I'm Ayush
   
 I'm a Graduate CS student at NCSU, building intelligent systems across AI, data platforms, and game development.  
   
-## 🚀 What I Do  
+## Pinned Repositories  
   
 - **Emissions Analytics** — FastAPI + TimescaleDB + React dashboards  
 - **Predictive Maintenance** — LSTM/RNN models for sensor time-series  
@@ -11,7 +11,7 @@ I'm a Graduate CS student at NCSU, building intelligent systems across AI, data 
   
 ---  
   
-## 🧠 Technical Skills  
+## Technical Skills  
   
 **Languages:** Python, Go, TypeScript, C++, SQL  
 **AI/ML:** PyTorch, HuggingFace, scikit-learn, LSTMs, Transformers  
@@ -21,28 +21,26 @@ I'm a Graduate CS student at NCSU, building intelligent systems across AI, data 
   
 ---  
   
-## 🔥 Featured Projects  
+## Featured Projects  
   
-### 🌍 EmissionsDashboard  
+### EmissionsDashboard  
 Full-stack emissions analytics dashboard with live data ingestion, FastAPI services, TimescaleDB, and interactive maps.  
 Tech: Python, TimescaleDB, React, Docker  
   
-### 🎧 Music (AI Audiobook Engine)  
+### Music (AI Audiobook Engine)  
 Generates cinematic background music and emotional TTS from text using MusicGen + OpenVoice.  
   
-### 🛰️ Open Mission Control  
+### Open Mission Control  
 Multi-tenant IoT telemetry ingestion + visualization platform using Go, Python, Postgres/TimescaleDB, and MQTT/NATS.  
   
-### 🎮 godot-TDShooter  
+### godot-TDShooter  
 Top-down shooter built in Godot with progressive AI (FSM → BT), A* pathfinding, ray-based tracers, and dynamic combat behavior.  
   
 ---  
   
-## 📫 Connect With Me  
+## Connect With Me  
   
-- X/Twitter: https://twitter.com/hackknight221  
+- LinkedIn: https://www.linkedin.com/in/ayush-gupta-50007b1b6/  
 - GitHub: https://github.com/AyushGupta-Code  
   
 ---  
-  
-Thanks for visiting my profile! 🚀
